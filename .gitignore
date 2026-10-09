@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pastas de saída e arquivos gerados em execução
+output/
+signatures/
+*.xlsx
+
+# Gerador de PDFs sintéticos (excluído do repositório conforme requisito)
+pdf_generator/
+
+# Ambientes virtuais
+.env
+.venv
+env/
+venv/
+
+# Configurações de IDEs
+.vscode/
+.idea/
